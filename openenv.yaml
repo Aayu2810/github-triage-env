@@ -1,0 +1,6 @@
+name: "GitHubTriage"
+version: "1.0.0"
+description: "AI Agent Triage Environment"
+entrypoint: "app.py"
+action_space: "Action"
+observation_space: "Observation"
